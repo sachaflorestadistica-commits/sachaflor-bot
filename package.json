@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "main": "index.js",
-  "script":{
+  "scripts":{
     "start":"node index.js"
   },
   "dependencies": {
